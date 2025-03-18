@@ -1,6 +1,6 @@
 .header {
 display: flex;
 flex-direction: row;
-background: gold;
+background: brown;
 min-height: 300px;
 }
