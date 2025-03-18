@@ -4,3 +4,12 @@ flex-direction: row;
 background: brown;
 min-height: 300px;
 }
+
+.footer {
+  display: flex;
+  position: relative;
+  top: 20px;
+  left: 20px;
+  min-height: 400px;
+  background: black;
+}
